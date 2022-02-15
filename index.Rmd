@@ -17,15 +17,4 @@ output:
 ## Bio
 
 First gen, PhD student pursuing cognitive neurscience.
-
-# Headings use hashtags
-
-## the more hashtags, the lower level of heading
-
-### here's one with three hastags
-
-*italics use one astric*
-
-**bold uses two**
-
-***three gives you both***
+I want to make some changes.
