@@ -1,0 +1,31 @@
+---
+title: "Ernestine Brannon"
+image: "me_and_chewy.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+First gen, PhD student pursuing cognitive neurscience.
+
+# Headings use hashtags
+
+## the more hashtags, the lower level of heading
+
+### here's one with three hastags
+
+*italics use one astric*
+
+**bold uses two**
+
+***three gives you both***
